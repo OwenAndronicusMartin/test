@@ -6,7 +6,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/hello-world.vue';
+import Pixi from './components/pixi';
+// import HelloWorld from './components/hello-world.vue';
+// import HelloWorld from './components/hello-world.vue';
+// import HelloWorld from './components/hello-world.vue';
+
 
 export default {
   name: 'app',
